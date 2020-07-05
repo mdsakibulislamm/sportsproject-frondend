@@ -1,0 +1,40 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+
+}
+.icon{
+  padding: 2px;
+}
+.carousel-item img{
+  width: 100%;
+  height: 93vh;
+}
+.about_img{
+  min-width: 100%;
+  max-height: 280px;
+  }
+.sports img{
+  width:100%;
+  height:100%;
+  
+}
+.galarysize{
+  width:300px;
+  height:250px;
+}
+
+
+@media (min-width: 576px) {
+}
+
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+
+}
+
+@media (min-width: 1200px) {
+ }
